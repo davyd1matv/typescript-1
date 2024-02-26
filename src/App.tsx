@@ -370,6 +370,7 @@ console.log(`Is Available: ${isAvailable}`);
 
 console.log(book);
 
+// Бeдуть показувати помилки
 // book[2] = "Test";
 // book[3] = "Test2";
 // delete book[2];
